@@ -9,3 +9,6 @@
 
 ## Tech Talks
 https://techyaks.com/top-python-talks.html
+
+## OpenCV
+[OpenCV and IP camera streaming with Python](https://benhowell.github.io/guide/2015/03/09/opencv-and-web-cam-streaming)
