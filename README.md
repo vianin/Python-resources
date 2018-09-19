@@ -12,3 +12,10 @@ https://techyaks.com/top-python-talks.html
 
 ## OpenCV
 [OpenCV and IP camera streaming with Python](https://benhowell.github.io/guide/2015/03/09/opencv-and-web-cam-streaming)
+
+## Email
+https://docs.python.org/3.6/library/email.examples.html
+
+http://naelshiab.com/tutorial-send-email-python/
+
+https://medium.freecodecamp.org/send-emails-using-code-4fcea9df63f
